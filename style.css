@@ -2,7 +2,19 @@ a {
     color: #a09fff;
 }
 
-h1, h3, p {
+h1, h3 {
+    color: #eeeeee;
+}
+
+c1 {
+    color: #eeeeee;
+}
+
+c2 {
+    color: #eeeeee;
+}
+
+c3 {
     color: #eeeeee;
 }
 
