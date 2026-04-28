@@ -40,12 +40,42 @@ li {
     gap: 10px;
 }
 
-.btn {
+.btn1 {
     display: inline-flex;
     align-items: center;
     justify-content: center;
     padding: 8px 14px;
-    background-color: #0078d7;
+    background-color: #6A3C2B;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
+
+.btn2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #2CB1BE;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
+
+.btn3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #E1E8ED;
     color: white;
     text-decoration: none;
     border-radius: 6px;
