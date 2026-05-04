@@ -96,3 +96,22 @@ Depiction: https://bluestackspenguin.github.io/repo/index.html
 Name: 提取本地插件Redeb
 Author: T.Herak
 
+Package: com.abcydia.mterminal
+Architecture: iphoneos-arm
+Version: 1.4-6
+Priority: standard
+Section: Utilities
+Maintainer: WZteam <admin@abcydia.com>
+Installed-Size: 776
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debfiles/mterminal_1.4-6.deb
+Size: 108066
+MD5sum: f288ed8989cb93b4a4310edec237fb89
+SHA1: 3aaf0457e3edab28790ab47aaa237e2338a77cd7
+SHA256: 8303f9ce35f7271347d7ba00ba1428b8bf5be3f0408bbc3133188a322199f20a
+SHA512: ffa6bcc703fbf7be85351d91bc19925e7838b53f6ff0fcfa007ea7c1086757826bbeedab1642bcbe0e283cec842d14d42cc7b471b1742296630c1ffa905b08a3
+Description: 运行在 iOS 上的手机终端 MTerminal
+Name: 手机终端MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Sponsor: ABCydia <http://www.abcydia.com>
