@@ -105,7 +105,7 @@ Maintainer: WZteam <admin@abcydia.com>
 Installed-Size: 776
 Pre-Depends: dpkg (>= 1.14.25-8)
 Depends: bash, coreutils, ncurses, system-cmds
-Filename: ./debfiles/mterminal_1.4-6.deb
+Filename: ./debs/mterminal_1.4-6.deb
 Size: 108066
 MD5sum: f288ed8989cb93b4a4310edec237fb89
 SHA1: 3aaf0457e3edab28790ab47aaa237e2338a77cd7
