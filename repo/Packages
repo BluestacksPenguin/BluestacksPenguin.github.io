@@ -12,7 +12,7 @@ Size: 77706
 MD5sum: a89748ab2388f6f6921a3a1732808bbe
 SHA1: dba5ce2e39fd2bb149f94750efa60a3b9e20eb78
 SHA256: 029de0bace218a414870d1faeb71ed8b1f81b219f2b9e1b60157cd3ea36915fd
-Section: Tweaks
+Section: AppSync Unified
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
@@ -33,7 +33,7 @@ Size: 78580
 MD5sum: 4ecec5319346560a6355ccafd7f9826d
 SHA1: ee8fdded08ef778c625180d81fbe74a97988dba0
 SHA256: cd700c91f746cf3a58ac534d43d4ff8278ffb9b92683456649bbba431adfe76e
-Section: Tweaks
+Section: AppSync Unified
 Homepage: https://cydia.akemi.ai/
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
@@ -43,7 +43,7 @@ Name: AppSync Unified
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm
 Version: 7.10.0
-Section: Utilities
+Section: iOS系统文件清理工具
 Maintainer: Ivano Bilenchi <support@ib-soft.net>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
@@ -64,7 +64,7 @@ Icon: file:///Applications/iCleaner.app/Icon.png
 Package: com.haoerloveyou.ifile
 Architecture: iphoneos-arm
 Version: 2.2.0-1
-Section: Utilities
+Section: iOS文件管理器
 Maintainer: Agricu
 Installed-Size: 20224
 Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
@@ -82,7 +82,7 @@ Package: cn.agricu.vsz.redeb
 Architecture: iphoneos-arm
 Version: 1.0.3
 Priority: extra
-Section: Utilities
+Section: 备份越狱插件相关工具
 Maintainer: T.Herak
 Depends: bash (>= 4.0.17-13), coreutils (>= 8.12-12p), grep (>= 2.5.4-3), sed (>= 4.1.5-7), gawk (>= 3.1.6-2p)
 Filename: ./debs/redeb_1.0.3.deb
