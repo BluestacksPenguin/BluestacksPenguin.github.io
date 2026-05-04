@@ -1,8 +1,8 @@
 Origin: BluestacksPenguin's Repo
-Label: BluestacksPenguin's Repo
+Label: Bluestacks Penguin的个人越狱插件源
 Suite: stable
 Version: 1.0.0
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: BluestacksPenguin repo for collecting and storing jailbreak fixes and utilities 
+Description: Bluestacks Penguin的个人越狱插件源，用来保存收集各种已绝版和实用的越狱插件
