@@ -89,3 +89,18 @@ li {
     min-width: 120px;
     transition: background 0.2s ease;
 }
+
+.btn5 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #137BEB;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
