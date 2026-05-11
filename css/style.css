@@ -1,1 +1,106 @@
+a {
+    color: #a09fff;
+}
 
+h1, h3, p {
+    color: #eeeeee;
+}
+
+body {
+    background-color: #3C85FF;
+    font-family: '-apple-system','Helvetica Neue','system-ui';
+}
+
+ul {
+    color: #eeeeee;
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 0.5em;
+}
+
+.btn-container {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn1 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #6A3C2B;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
+
+.btn2 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #2CB1BE;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
+
+.btn3 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #353A3D;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
+
+.btn4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #137BEB;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
+
+.btn5 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 14px;
+    background-color: #137BEB;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 14px;
+    flex: 1 1 45%;
+    min-width: 120px;
+    transition: background 0.2s ease;
+}
