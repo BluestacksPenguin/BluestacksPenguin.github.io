@@ -116,8 +116,9 @@ Name: 手机终端MTerminal
 Author: lordscotland <admin@officialscheduler.com>
 
 Package: com.abcydia.hsmapfix
-Version: 0.0.1-1
 Architecture: iphoneos-arm
+Version: 0.0.1-1
+Section: Development
 Maintainer: ruich97 <ruich97@icloud.com>
 Installed-Size: 136
 Depends: mobilesubstrate
@@ -126,7 +127,7 @@ Size: 5106
 MD5sum: 914fb2a63b1d780f21093f01fb713bee
 SHA1: 9b32a0efa307e9a80fed442dc1d6e54b2afde7a3
 SHA256: a3be0dc22e5959e1d9239414b8dbf9d943a249d4e3b072594204c3e9091a52a1
-Section: Development
+Description: 32位/64位 iOS 9.3.X 及 32位/64位 iOS 9.3.X 以上的 iOS 版本，安装 Infinidock 插件出现安全模式时，必须先安装此 HSMapFix 插件，再安装 Infinidock 插件后，即可恢复正常
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Name: HSMapFix
 Sponsor: ABCydia BackupRepo <http://apt.senpai114514.icu/abcydia>
