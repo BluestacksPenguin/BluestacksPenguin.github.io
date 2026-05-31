@@ -114,3 +114,19 @@ SHA512: ffa6bcc703fbf7be85351d91bc19925e7838b53f6ff0fcfa007ea7c1086757826bbeedab
 Description: 运行在 iOS 上的手机终端 MTerminal
 Name: 手机终端MTerminal
 Author: lordscotland <admin@officialscheduler.com>
+
+Package: com.abcydia.hsmapfix
+Version: 0.0.1-1
+Architecture: iphoneos-arm
+Maintainer: ruich97 <ruich97@icloud.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.abcydia.hsmapfix_0.0.1-1_iphoneos-arm.deb
+Size: 5106
+MD5sum: 914fb2a63b1d780f21093f01fb713bee
+SHA1: 9b32a0efa307e9a80fed442dc1d6e54b2afde7a3
+SHA256: a3be0dc22e5959e1d9239414b8dbf9d943a249d4e3b072594204c3e9091a52a1
+Section: Development
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Name: HSMapFix
+Sponsor: ABCydia BackupRepo <http://apt.senpai114514.icu/abcydia>
