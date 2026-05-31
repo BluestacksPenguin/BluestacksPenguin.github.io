@@ -131,3 +131,22 @@ Description: 32位/64位 iOS 9.3.X 及 32位/64位 iOS 9.3.X 以上的 iOS 版�
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Name: HSMapFix
 Sponsor: ABCydia BackupRepo <http://apt.senpai114514.icu/abcydia>
+
+Package: com.abcydia.wifipasswd
+Architecture: iphoneos-arm
+Version: 3.0.2
+Section: iOS无线局域网密码备忘录工具
+Maintainer: ruich97 <ruich97@icloud.com>
+Installed-Size: 4112
+Depends: firmware (>= 6.0)
+Replaces: com.abcydia.wifipasswords
+Filename: debs/com.abcydia.wifipasswd_3.0.2_iphoneos-arm.deb
+Size: 853014
+MD5sum: 688ff0a209ddadf6bdeca372866d966c
+SHA1: 284f6da962e0033af7eb9b0fc9e21f58e86fb5bc
+SHA256: 98681d2f8b6e21cda0a030a3264c9c241b036464477913cf8bc4b1e3a9023f11
+Description: 用于记录与查看已连接的 WiFi 的 WiFi 密码的 WiFi 密码记录本
+Author: Malcolm Hall <indiekiduk@gmail.com>
+Icon: file:///Applications/WiFiPasswords.app/Icon.png
+Name: 无线局域网密码备忘录WiFi Password
+Sponsor: ABCydia BackupRepo <http://apt.senpai114514.icu/abcydia>
