@@ -150,3 +150,21 @@ Author: Malcolm Hall <indiekiduk@gmail.com>
 Icon: file:///Applications/WiFiPasswords.app/Icon.png
 Name: 无线局域网密码备忘录WiFi Password
 Sponsor: ABCydia BackupRepo <http://apt.senpai114514.icu/abcydia>
+
+Package: com.abcydia.aquaboard8
+Architecture: iphoneos-arm
+Version: 2.2-27k
+Section: Tweaks
+Maintainer: ruich97 <ruich97@icloud.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceLoader (>= 2.2.2), firmware (>= 8.0)
+Conflicts: net.limneos.aquaboard, com.fuyuchi.unlockize
+Filename: debs/com.abcydia.aquaboard8_2.2-27k_iphoneos-arm.deb
+Size: 114140
+MD5sum: 682367c9556f0f83594b3aec35b778f1
+SHA1: 5c5eb583e5937710777ffb382216d8fccc911bcb
+SHA256: 628305e9b7a32a064a9833b040244cd28a6a17d5721ae6970bea7580087dec0c
+Description: 使iOS设备屏幕出现此起彼伏的水波纹特效美化插件
+Author: Elias Limneos
+Icon: file:///Library/PreferenceBundles/AquaPrefs.bundle/AquaPrefs@2x.png
+Name: 屏幕水波特效AquaBoard
+Sponsor: ABCydia BackupRepo <http://apt.senpai114514.icu/abcydia>
